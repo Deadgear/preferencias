@@ -1,0 +1,36 @@
+.papito {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Roboto;
+}
+.preferencias{
+    width: 50%;
+    margin: 30px;
+    background-color: gray;
+    color: wheat;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.proyectos{
+    width: 50%;
+    margin: 30px;
+    background-color: gray;
+    color: wheat;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+.testamento{
+    margin: 10px;
+    width: 50%;
+    align-self: center;
+}
